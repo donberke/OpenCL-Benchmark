@@ -1,6 +1,6 @@
 # OpenCL-Benchmark
 
-A small [OpenCL](https://github.com/ProjectPhysX/OpenCL-Wrapper "OpenCL-Wrapper") benchmark program to measure peak GPU/CPU performance.
+A small [OpenCL](https://github.com/ProjectPhysX/OpenCL-Wrapper "OpenCL-Wrapper") benchmark program to measure peak GPU/CPU performance. **Now forked with CMake!**
 
 Works with any GPU in Windows, Linux, macOS and Android.
 
